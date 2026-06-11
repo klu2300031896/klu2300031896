@@ -1,5 +1,20 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm **Rudru Venkatesh**, a Computer Science student passionate about building innovative software solutions and exploring emerging technologies.<br><br>💻 I enjoy developing applications using **Java, Spring Boot, Python, and MySQL**, while continuously improving my skills in **Data Structures & Algorithms** and **Backend Development**.<br><br>🤖 My interests include **Artificial Intelligence, Machine Learning, Networking, and Prompt Engineering**. I love solving challenging problems and turning ideas into real-world projects.<br><br>🌐 Besides coding, I share my learning journey through my **YouTube channel**, maintain a **professional portfolio**, and actively explore new technologies to stay ahead in the tech world.<br><br>### ⚡ Fun Facts<br><br>* 🔥 Competitive Programming Enthusiast<br>* 🤖 AI & Machine Learning Explorer<br>* 🎮 Interested in Unity Game Development<br>* ☕ Can spend hours debugging one semicolon<br>* 🚀 Always learning something new<br><br>### 🎯 Current Goals<br><br>* Master Spring Boot and Backend Development<br>* Build impactful AI/ML projects<br>* Strengthen System Design knowledge<br>* Contribute to Open Source Projects<br>* Prepare for Software Engineering opportunities<br>
+# 💫 About Me
+
+Hi, I'm **Rudru Venkatesh**, a Computer Science student with a strong interest in **Software Development, Artificial Intelligence, and Machine Learning**.
+
+💻 I specialize in **Java, Spring Boot, Python, and MySQL**, with a focus on building scalable applications and strengthening my skills in **Data Structures & Algorithms** and **Backend Development**.
+
+🤖 I am passionate about exploring **AI/ML**, solving real-world problems through technology, and continuously learning new tools and frameworks.
+
+🌱 Currently focused on:
+
+* Spring Boot & Backend Development
+* Artificial Intelligence & Machine Learning
+* Data Structures & Algorithms
+* System Design Fundamentals
+
+🎯 Career Goal:
+To become a skilled Software Engineer and contribute to impactful technology solutions.
 
 
 ## 🌐 Socials:
